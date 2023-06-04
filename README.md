@@ -33,4 +33,4 @@ Change scene: API endpoint `effects`. Payload: `{"select": "(scene name)"}`
 
 Change brightness: API endpoint `state`. Payload: `{"brightness": {"value": (percentage number brightness)}}`
 
-Turn on/off: API endpoint `state`. Payload: `{"on": {"value": (true/false)}}
+Turn on/off: API endpoint `state`. Payload: `{"on": {"value": (true/false)}}`
